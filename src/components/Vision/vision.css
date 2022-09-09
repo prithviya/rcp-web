@@ -1,0 +1,15 @@
+.uk-subnav-pill>*>:first-child
+{
+    text-decoration: none;
+    background: linear-gradient(135deg, #007ccfb3 1%, #3bb18e 82%);
+    color: #fff;
+}
+.uk-subnav-pill>*>:first-child:hover
+{
+    background: linear-gradient(135deg, #3bb18e 30%,#007ccfb3 55%);
+    color: #333;
+}
+.uk-subnav
+{
+    justify-content: center;
+}

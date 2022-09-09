@@ -1,0 +1,12 @@
+.line-1 
+{
+  height: 1px;
+  background: black;
+  border:2px solid #c6c6c6;
+  border-radius: 5px;
+  margin: 0px;
+}
+.uk-section-secondary
+{
+  background: linear-gradient(165deg, #007ccfb3 1%, #3bb18e 82%);
+}

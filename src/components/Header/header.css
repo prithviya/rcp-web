@@ -1,0 +1,15 @@
+.custom_nav_sect 
+{
+    background: rgba(255, 255, 255, 0.5);
+}
+.nav-link
+{
+    font-family: 'Cabin', sans-serif !important;
+    color: #333 !important;
+    font-size: 1.2rem !important;
+}
+.custom_navlink
+{
+    color: #333 !important;
+    text-decoration: none;
+}
