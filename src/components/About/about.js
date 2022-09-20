@@ -37,20 +37,20 @@ function about() {
                             </span>
                         </h1>
                         <p className='uk-text-justify'>
-                            It was started as the new blossom of Rathinam Group of Institutions with the focus on turnout skilled and dedicated physiotherapy professionals. Rathinam College of Physiotherapy was established in the year 2021 and it offers an intense and high-quality Bachelor of Physiotherapy course that combines creative learning and experimental learning. The College of Physiotherapy is committed to striving to be one of the best Physiotherapy colleges in Coimbatore with 40+ years of educational excellence.
+                            It was started as the new blossom of Rathinam Group of Institutions with the focus on turnout skilled and dedicated Physiotherapy professionals. Rathinam College of Physiotherapy was established in the year 2021 and it offers an intense and high-quality Bachelor of Physiotherapy (BPT) course that combines creative learning and experimental learning. The College of Physiotherapy is committed to striving to be one of the best Physiotherapy colleges in Coimbatore with educational excellence.
                         </p>
                     </div>
                     <div className="uk-child-width-1-2@m uk-grid-small uk-text-center uk-grid-match" data-uk-grid>
                         <div>
                             <div className="uk-card uk-card-default custom_abtsect_card">
                                 <img src="https://img.icons8.com/external-justicon-lineal-justicon/64/FFFFFF/external-teacher-elearning-and-education-justicon-lineal-justicon.png" alt='demo'/>
-                                <h5 className="text-white">Experience Staff</h5>
+                                <h5 className="text-white">Experiences Staff</h5>
                             </div>
                         </div>
                         <div>
                             <div className="uk-card uk-card-default custom_abtsect_card">
                                 <img src="https://img.icons8.com/external-tulpahn-detailed-outline-tulpahn/64/FFFFFF/external-laboratory-ecology-tulpahn-detailed-outline-tulpahn.png" alt='demo1'/>
-                                <h5 className="text-white">Hi-Tech Labs</h5>
+                                <h5 className="text-white">Hi-tech Labs</h5>
                             </div>
                         </div>
                         <div>

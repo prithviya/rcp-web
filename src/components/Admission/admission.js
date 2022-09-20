@@ -11,23 +11,38 @@ function admission() {
         </div>
         <div className='uk-section'>
             <div className='uk-container'>
-                <div class="" data-uk-grid>
-                    <div class="uk-width-1-3@m">
-                        <div class="uk-card">
-                            <img src='https://img.freepik.com/free-photo/medium-shot-doctor-massaging-patient_23-2149047496.jpg?w=740&t=st=1662962916~exp=1662963516~hmac=a4a7bc3ff946bad4c8e103e33bb18cba4cead3ba6003e3fb06a8191f0b204650' alt='scope_of_physiotherapy'/>
-                        </div>
-                    </div>
-                    <div class="uk-width-2-3@m">
-                        <div class="uk-card uk-card-body">
-                            <h1 className='custom_heading'>
-                                Scope of <span> Physiotherapy</span>
-                            </h1>
-                            <p>
-                                Physiotherapy is named one of the “best careers” for 2020 by US News and World Report (www.ap .org) The median income of physiotherapists has increased by 23.6 percent b-etween 1999 and 2004 ie., 85.2,15 D00 to Rs.2,66,000 p-er month in U.S. Physiotherapists are in demand and the demand is continually rising over time.
-                            </p>
-                        </div>
-                    </div>
-                </div>
+                <div class="uk-card uk-card-body">
+                <h1 className='custom_heading'>
+                        Scope of <span> Physiotherapy</span>
+                    </h1>
+                    <ol className='uk-list custom_admiss_order'>
+                        <li>
+                            Overseas job opportunities in health care setups.
+                        </li>
+                        <li>
+                            Consultant physiotherapist in multi-specialty hospitals, PHCs, NGOs.
+                        </li>
+                        <li>
+                            Private Practitioners running independent physiotherapy Clinic.
+                        </li>
+                        <li>
+                            Entrepreneurs in rehabilitation centres.
+                        </li>
+                        <li>
+                            Corporate physiotherapist in MNCs.
+                        </li>
+                        <li>
+                            Sports physiotherapists associated with sports team.
+                        </li>
+                        <li>
+                            Health care physiotherapy instructor in modern gymnasiums.
+                        </li>                                    
+                        
+                        <li>
+                            Physiotherapist in special schools for physically challenged children.
+                        </li>
+                    </ol>      
+                </div>                    
             </div>
         </div>
         <div className='uk-section uk-section-muted'>
@@ -76,9 +91,17 @@ function admission() {
                     <h1 className='custom_heading'>
                         Eligibility <span>Criteria</span>
                     </h1>
-                    <p className='uk-text-center text-black'>
-                        HSC pass(+2) Compulsory, physics, chemistry, Biology, English Or Physics, Chemistry, Botony, Zoology and English MPT
-                    </p>
+                    <ul>
+                        <li>
+                            Male and Female candidates are eligible to apply.
+                        </li>
+                        <li>
+                            A pass in the HSC examination with the following subjects: Physics, Chemistry, Biology/Botany and Zoology.
+                        </li>
+                        <li>
+                            Age limit for admission: Should have completed 17 years as of 31 December of the admission year.
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>

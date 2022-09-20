@@ -114,29 +114,6 @@ function team() {
                                             <div className="img-container">
                                                 <div className="img-inner">
                                                     <div className="inner-skew">
-                                                        <img alt="team_image" src={Images.TEAM_ITEM_5}/>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div className="text-container">
-                                                <h5>
-                                                Selva Shruthi. V
-                                                </h5>
-                                                <div>
-                                                    <p className='text-black'>
-                                                        Assistant Professor
-                                                    </p>  
-                                                </div>    
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div>
-                                        <div className="a-box">
-                                            <div className="img-container">
-                                                <div className="img-inner">
-                                                    <div className="inner-skew">
                                                         <img alt="team_image" src={Images.TEAM_ITEM_8}/>
                                                     </div>
                                                 </div>

@@ -18,7 +18,7 @@ function vision() {
                     <ul className="uk-switcher uk-margin">
                         <li>
                             <div>
-                                <h5 className='uk-text-center uk-margin-remove'>
+                                <h5 className='uk-text-center uk-margin-remove uk-text-bold'>
                                     Our Vision
                                 </h5>
                                 <img className='uk-text-center uk-align-center' src={Images.MISSION_ICON} alt='vision_icon'/>
@@ -29,23 +29,23 @@ function vision() {
                         </li>
                         <li>
                             <div>
-                                <h5 className='uk-text-center uk-margin-remove'>
+                                <h5 className='uk-text-center uk-margin-remove uk-text-bold'>
                                     Our Mission
                                 </h5>
                                 <img className='uk-text-center uk-align-center' src={Images.MOTTO_ICON} alt='vision_icon'/>
                                 <p className='uk-text-justify'>
-                                    To impart quality education by providing a conducive learning environment to enrich students’ knowledge and skills to explore their talents in the field of Physiotherapy
+                                    To impart quality education by providing a conducive learning environment to enrich students’ knowledge and skills to explore their talents in the field of Physiotherapy.
                                 </p>
                             </div>
                         </li>
                         <li>
                             <div>
-                                <h5 className='uk-text-center uk-margin-remove'>
+                                <h5 className='uk-text-center uk-margin-remove uk-text-bold'>
                                     Motto
                                 </h5>
                                 <img className='uk-text-center uk-align-center' src={Images.VISION_ICON} alt='vision_icon'/>
-                                <p className='uk-text-justify'>
-                                    Shaping Youth into Professionals 
+                                <p className='uk-text-center'>
+                                    Shaping Youth into Professionals. 
                                 </p>
                             </div>
                         </li>

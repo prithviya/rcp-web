@@ -15,7 +15,7 @@ function bro() {
                         <div>
                             <div class="uk-card-body">
                                 <p className='text-black'>
-                                    Curriculum of Allied Health Science Programmes has been designed in such a way to understand the basic concepts in the field and to apply the knowledge during the internship training in the real health care setup. The Allied Health Professionals are expected to have excellent skills required in their respective field of study.
+                                    Curriculum of Physiotherapy Programmes has been designed in such a way to understand the basic concepts in the field and to apply the knowledge during the Clinical training in the real health care setup. The Physiotherapy Professionals are expected to have excellent skills required in their respective field of study.
                                 </p>
                             </div>
                         </div>

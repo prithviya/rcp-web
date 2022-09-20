@@ -45,7 +45,7 @@ function header() {
                                 <Link to="/admission" className='custom_navlink'>Admission</Link>
                             </Nav.Link>
                             <Nav.Link>
-                                <Link to="/events" className='custom_navlink'>Event</Link>
+                                <Link to="/events" className='custom_navlink'>Events</Link>
                             </Nav.Link>
                             {/* <Nav.Link href="">
                                 Contact

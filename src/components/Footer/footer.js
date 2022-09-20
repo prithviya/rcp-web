@@ -39,7 +39,7 @@ function footer() {
                     </Link>
                     <Link to="events" onClick={() => { window.scrollTo({top: 0, left: 0, behavior: 'smooth'}); }}  className='text-white' style={{textDecoration:'none'}}>
                         <img className='uk-margin-small-right' alt='footer_link' src="https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/24/FFFFFF/external-arrow-arrow-line-royyan-wijaya-detailed-outline-royyan-wijaya-20.png"/>
-                        Event
+                        Events
                     </Link>
                 </div>
                 <div>

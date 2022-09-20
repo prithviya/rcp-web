@@ -17,7 +17,7 @@ function banner() {
                             <span>Welcome To RCP</span>
                         </h1>
                         <p className="uk-margin-remove text-white">
-                        RCP is a symbol of excellence dedicated to inculcating education with <br/>unique standards that prepares competent physiotherapists for global demands. 
+                        RCP is a symbol of excellence dedicated to inculcating education with <br/>unique standards that prepares competent Physiotherapists for global demands. 
                         </p>
                         <a href={Brochure} download="RCP_Brochure.pdf" rel="noopener noreferrer">
                             <button class="uk-button uk-button-danger uk-margin-top">Download Brochure</button>

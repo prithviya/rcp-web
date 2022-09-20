@@ -6,7 +6,7 @@ function campus() {
     <div className='uk-section uk-section-muted'>
         <div className='uk-container'>
             <h1 className='custom_heading'>
-                Campus <span>Life RCP</span>
+                Campus <span>Life</span>
             </h1>
             <div class="uk-flex-middle" data-uk-grid>
                 <div class="uk-width-1-3@m">
@@ -32,10 +32,10 @@ function campus() {
                 <div class="uk-width-2-3@m">
                     <div class="uk-card uk-card-default uk-card-body">
                        <p className='text-black'>
-                            Why should we opt Rathinam? Though the answer varies for each student, there are some things that we all agree upon. There is diversity; people here are open-minded, passionate towards their work, and friendly.
+                            Why should we opt Rathinam? Though the answer varies for each student, there are some things that we all agree upon. There is diversity people here are open-minded, passionate towards their work, and friendly.
                        </p>
                        <p className='text-black'>
-                            We are one of the best arts and science colleges in Coimbatore with equal aspects of creativity and knowledge. We offer an all-inclusive residential college experience, which means that the campus is a lively place to learn, live, play, dine, grow, and explore.
+                            We are one of the best Physiotherapy colleges in Coimbatore with equal aspects of creativity and knowledge. We offer an all-inclusive residential college experience, which means that the campus is a lively place to learn, live, play, dine, grow, and explore.
                        </p>
                     </div>
                 </div>
