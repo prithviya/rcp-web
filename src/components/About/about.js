@@ -12,9 +12,6 @@ function about() {
 
                             <ul className="uk-slideshow-items">
                                 <li>
-                                    <img src="https://images.pexels.com/photos/459971/pexels-photo-459971.jpeg?auto=compress&cs=tinysrgb&w=600" alt="slider1" data-uk-cover/>
-                                </li>
-                                <li>
                                     <img src="https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=600" alt="slider2" data-uk-cover />
                                 </li>
                                 <li>

@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
 :root
 {
   --black: #333;
@@ -7,7 +7,7 @@
 }
 *
 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Domine', serif;
   scroll-behavior: smooth;
 }
 .text-white
@@ -21,8 +21,8 @@
 .custom_heading
 {
   text-align: center;
-  font-family: 'Mulish', sans-serif !important;
-  font-size: 2.8rem;
+  font-family: 'EB Garamond', serif !important;
+  font-size: 3rem;
 }
 .custom_heading:after 
 {
@@ -31,7 +31,7 @@
   content: "";
   display: block;
   height: 2px;
-  margin: 5px auto 5px;
+  margin: 5px auto 15px;
   width: 90px;
 }
 .custom_heading span
@@ -39,7 +39,31 @@
   background: linear-gradient(45deg, #007ccf 62%, #3bb18e 92%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-  font-family: 'Mulish', sans-serif !important;
+  font-family: 'EB Garamond', serif !important;
   font-size: 2.8rem;
 }
-
+.uk-button-danger
+{
+  border-bottom-left-radius: 15px !important;
+  border-top-right-radius: 15px !important;
+  background: linear-gradient(45deg, #007ccf 12%, #3bb18e 92%) !important;
+  color: #fff;
+}
+.uk-button-danger:hover
+{
+  background: linear-gradient(45deg, #3bb18e 12%, #007ccf 100%) !important;
+}
+.uk-button-primary
+{
+  border-bottom-right-radius: 15px !important;
+  border-top-left-radius: 15px !important;
+  background: linear-gradient(45deg, #3bb18e 12%, #007ccf 100%) !important;
+}
+.uk-button-primary:hover
+{
+  background: linear-gradient(45deg, #007ccf 12%, #3bb18e 92%) !important;
+}
+.uk-button
+{
+  text-transform: capitalize !important;
+}

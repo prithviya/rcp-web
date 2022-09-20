@@ -5,7 +5,7 @@ function abt() {
   return (
     <div className=''>
         <div>
-            <div class="uk-background-contain uk-background-muted custom_banner_section uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle">
+            <div className="uk-background-contain uk-background-muted custom_banner_section uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle">
                 <h1>About Us</h1>
             </div>
         </div>

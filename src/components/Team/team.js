@@ -28,7 +28,7 @@ function team() {
                                             </div>
                                             <div className="text-container">
                                                 <h5>
-                                                    KARTHIKEYAN. S
+                                                    Karthikeyan. S
                                                 </h5>
                                                 <div>
                                                     <p className='text-black'>
@@ -51,7 +51,7 @@ function team() {
                                             </div>
                                             <div className="text-container">
                                                 <h5>
-                                                    ROSHINI. R
+                                                    Roshini. R
                                                 </h5>
                                                 <div>
                                                     <p className='text-black'>
@@ -74,7 +74,7 @@ function team() {
                                             </div>
                                             <div className="text-container">
                                                 <h5>
-                                                    KUMARESAN. M
+                                                    Kumaresan. M
                                                 </h5>
                                                 <div>
                                                     <p className='text-black'>
@@ -97,7 +97,7 @@ function team() {
                                             </div>
                                             <div className="text-container">
                                                 <h5>
-                                                    CYNTHIA BENEDICT. J
+                                                    Cynthia Benedict. J
                                                 </h5>
                                                 <div>
                                                     <p className='text-black'>
@@ -114,13 +114,13 @@ function team() {
                                             <div className="img-container">
                                                 <div className="img-inner">
                                                     <div className="inner-skew">
-                                                        <img alt="team_image" src="https://img.freepik.com/free-psd/young-businessman-3d-cartoon-avatar-portrait_627936-22.jpg?w=740&t=st=1662547020~exp=1662547620~hmac=01ba1b5d5cebb0f62db4239ef5cbb9e1c200b03b6c2b7f2ff4af250a70d11c9b"/>
+                                                        <img alt="team_image" src={Images.TEAM_ITEM_5}/>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div className="text-container">
                                                 <h5>
-                                                SELVA SHRUTHI. V
+                                                Selva Shruthi. V
                                                 </h5>
                                                 <div>
                                                     <p className='text-black'>
@@ -137,17 +137,132 @@ function team() {
                                             <div className="img-container">
                                                 <div className="img-inner">
                                                     <div className="inner-skew">
-                                                        <img alt="team_image" src="https://img.freepik.com/free-psd/young-businessman-3d-cartoon-avatar-portrait_627936-22.jpg?w=740&t=st=1662547020~exp=1662547620~hmac=01ba1b5d5cebb0f62db4239ef5cbb9e1c200b03b6c2b7f2ff4af250a70d11c9b"/>
+                                                        <img alt="team_image" src={Images.TEAM_ITEM_8}/>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div className="text-container">
                                                 <h5>
-                                                    Prof. S. KARTHIKEYAN
+                                                Malathi
                                                 </h5>
                                                 <div>
                                                     <p className='text-black'>
-                                                        Principal
+                                                        Assistant Professor
+                                                    </p>  
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <div className="a-box">
+                                            <div className="img-container">
+                                                <div className="img-inner">
+                                                    <div className="inner-skew">
+                                                        <img alt="team_image" src={Images.TEAM_ITEM_7}/>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="text-container">
+                                                <h5>
+                                                Vanjimuthu Kumar.
+                                                </h5>
+                                                <div>
+                                                    <p className='text-black'>
+                                                        Assistant Professor
+                                                    </p>  
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <div className="a-box">
+                                            <div className="img-container">
+                                                <div className="img-inner">
+                                                    <div className="inner-skew">
+                                                        <img alt="team_image" src={Images.TEAM_ITEM_9}/>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="text-container">
+                                                <h5>
+                                                Bhuvaneswari
+                                                </h5>
+                                                <div>
+                                                    <p className='text-black'>
+                                                        Assistant Professor
+                                                    </p>  
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <div className="a-box">
+                                            <div className="img-container">
+                                                <div className="img-inner">
+                                                    <div className="inner-skew">
+                                                        <img alt="team_image" src={Images.TEAM_ITEM_10}/>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="text-container">
+                                                <h5>
+                                                Anandha Kumar
+                                                </h5>
+                                                <div>
+                                                    <p className='text-black'>
+                                                        Assistant Professor
+                                                    </p>  
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <div className="a-box">
+                                            <div className="img-container">
+                                                <div className="img-inner">
+                                                    <div className="inner-skew">
+                                                        <img alt="team_image" src={Images.TEAM_ITEM_6}/>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="text-container">
+                                                <h5>
+                                                    Revathi. S
+                                                </h5>
+                                                <div>
+                                                    <p className='text-black'>
+                                                        Assistant Professor
+                                                    </p>  
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <div className="a-box">
+                                            <div className="img-container">
+                                                <div className="img-inner">
+                                                    <div className="inner-skew">
+                                                        <img alt="team_image" src={Images.TEAM_ITEM_11}/>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="text-container">
+                                                <h5>
+                                                    Kaviya
+                                                </h5>
+                                                <div>
+                                                    <p className='text-black'>
+                                                        Assistant Professor
                                                     </p>  
                                                 </div>    
                                             </div>
@@ -156,10 +271,10 @@ function team() {
                                 </li>
                             </ul>
                         </div>
-                        <a className="uk-position-top-right uk-position uk-margin-medium-right uk-hidden-hover" href="#"  data-uk-slider-item="previous">
+                        <a className="uk-position-top-right uk-position uk-margin-medium-right uk-hidden-hover" href="/#"  data-uk-slider-item="previous">
                             <img src="https://img.icons8.com/nolan/50/3bb18e/007ccf/previous.png" alt="team_image"/>
                         </a>
-                        <a className="uk-position-right uk-position uk-hidden-hover" href="#" data-uk-slider-item="next">
+                        <a className="uk-position-right uk-position uk-hidden-hover" href="/#" data-uk-slider-item="next">
                             <img src="https://img.icons8.com/nolan/50/3bb18e/007ccf/next.png" alt='team_Image'/>
                         </a>                    
                     </div>

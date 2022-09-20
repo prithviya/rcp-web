@@ -4,9 +4,9 @@
 }
 .nav-link
 {
-    font-family: 'Cabin', sans-serif !important;
     color: #333 !important;
-    font-size: 1.2rem !important;
+    font-size: 1rem !important;
+    font-weight: 700 !important;
 }
 .custom_navlink
 {

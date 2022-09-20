@@ -3,7 +3,8 @@ import About from '../components/About/about';
 import Team from '../components/Team/team';
 import Vision from '../components/Vision/vision';
 import Banner from '../components/Banner/banner';
-import Gallery from '../components/Gallery/gallery';
+import Campus from '../components/Campus/campus';
+import Brochure from '../components/Brouchure/bro';
 function home() {
   return (
     <div>
@@ -11,7 +12,8 @@ function home() {
         <Vision/>
         <About/>
         <Team/>
-        <Gallery/>
+        <Campus/>
+        <Brochure/>
     </div>
   )
 }

@@ -9,7 +9,10 @@
     overflow: hidden;
     display: block;
     line-height: 1.2;
-    color: #ff5400;
+    color: #fff;
+    font-weight: 800;
+    font-family: 'EB Garamond', serif  !important;
+    font-size: 4rem;
 }
 
 .home-title span::after{

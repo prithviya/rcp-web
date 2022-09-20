@@ -1,0 +1,12 @@
+.uk-divider-vertical
+{
+  border-left-color: #fff !important;
+}
+.cus-card:hover
+{
+  background: linear-gradient(165deg, #007ccfb3 1%, #3bb18e 82%);
+}
+.cus-card
+{
+  background: linear-gradient(100deg, rgb(0, 124, 207) 1%, rgb(59, 177, 142) 82%)
+}

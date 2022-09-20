@@ -14,7 +14,7 @@ function header() {
             <Navbar key={expand} expand={expand} className='p-0 custom_nav_sect'> 
                 <Container>
                     <Navbar.Brand href="#">
-                        <img src={ Image.BRAND_LOGO } width='100px' height='' alt='Logo'/>
+                        <img src={ Image.BRAND_LOGO } width='80px' height='' alt='Logo'/>
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
                     <Navbar.Offcanvas
@@ -24,7 +24,7 @@ function header() {
                     >
                     <Offcanvas.Header closeButton>
                         <Offcanvas.Title id={`offcanvasNavbarLabel-expand-${expand}`}>
-                        RCP Logo
+                            <img src={ Image.BRAND_LOGO } width='100px' height='' alt='Logo'/>
                         </Offcanvas.Title>
                     </Offcanvas.Header>
                     <Offcanvas.Body>
@@ -38,18 +38,18 @@ function header() {
                             <Nav.Link>
                                 <Link to="/academics" className='custom_navlink'>Academics</Link>
                             </Nav.Link>
-                            <Nav.Link href="">
-                                Infrastructure
+                            <Nav.Link>
+                                <Link to="/facility" className='custom_navlink'>Infrastructure</Link>
                             </Nav.Link>
-                            <Nav.Link href="">
-                                Admission
+                            <Nav.Link>
+                                <Link to="/admission" className='custom_navlink'>Admission</Link>
                             </Nav.Link>
-                            <Nav.Link href="">
-                                Life @ RCP
+                            <Nav.Link>
+                                <Link to="/events" className='custom_navlink'>Event</Link>
                             </Nav.Link>
-                            <Nav.Link href="">
+                            {/* <Nav.Link href="">
                                 Contact
-                            </Nav.Link>                  
+                            </Nav.Link> */}
                         </Nav>  
                     </Offcanvas.Body>
                 </Navbar.Offcanvas>
