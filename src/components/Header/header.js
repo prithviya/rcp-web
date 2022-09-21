@@ -14,7 +14,7 @@ function header() {
             <Navbar key={expand} expand={expand} className='p-0 custom_nav_sect'> 
                 <Container>
                     <Navbar.Brand href="#">
-                        <img src={ Image.BRAND_LOGO } width='80px' height='' alt='Logo'/>
+                        <img src={ Image.BRAND_LOGO } width='180px' height='100px' alt='Logo'/>
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
                     <Navbar.Offcanvas

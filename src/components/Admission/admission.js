@@ -11,7 +11,7 @@ function admission() {
         </div>
         <div className='uk-section'>
             <div className='uk-container'>
-                <div class="uk-card uk-card-body">
+                <div class="uk-card">
                 <h1 className='custom_heading'>
                         Scope of <span> Physiotherapy</span>
                     </h1>
@@ -20,26 +20,40 @@ function admission() {
                             Overseas job opportunities in health care setups.
                         </li>
                         <li>
-                            Consultant physiotherapist in multi-specialty hospitals, PHCs, NGOs.
+                            Consultant Physiotherapist in multi-specialty hospitals, PHCs, NGOs.
                         </li>
                         <li>
-                            Private Practitioners running independent physiotherapy Clinic.
+                            Private Practitioners running independent Physiotherapy Clinic.
                         </li>
                         <li>
                             Entrepreneurs in rehabilitation centres.
                         </li>
                         <li>
-                            Corporate physiotherapist in MNCs.
+                            Corporate Physiotherapist in MNCs.
                         </li>
                         <li>
-                            Sports physiotherapists associated with sports team.
+                            Sports Physiotherapists associated with sports team. 
                         </li>
                         <li>
-                            Health care physiotherapy instructor in modern gymnasiums.
-                        </li>                                    
-                        
+                            Health care Physiotherapy instructor in modern gymnasiums.
+                        </li>
+                        <li>
+                            Ergonomic care advisor. 
+                        </li> 
                         <li>
                             Physiotherapist in special schools for physically challenged children.
+                        </li>                                   
+                        <li>
+                            Physiotherapist in old age residential homes.
+                        </li>
+                        <li>
+                            Clinical instructor, Tutor in academic sectors.
+                        </li>
+                        <li>
+                            Clinical researcher.
+                        </li>
+                        <li>
+                            Pursue post graduation, followed by Ph.D programme.    
                         </li>
                     </ol>      
                 </div>                    
@@ -54,26 +68,15 @@ function admission() {
                     <div class="uk-child-width-1-2@m uk-flex-middle uk-grid-small uk-grid-match" data-uk-grid>
                         <div>
                             <div class="uk-card uk-card-body">
-                                <ol className='uk-list'>
-                                    <li>
-                                        Four and a half years course.
-                                    </li>
-                                    <li>
-                                        Four years of study and six months in service training.
-                                    </li>
-                                    <li>
-                                        First year- Theoretical introduction of basic sciences.
-                                    </li>
-                                    <li>
-                                        Second and third year-Clinical Practice of Therapeutic sciences.
-                                    </li>
-                                    <li>
-                                        Final year-80% of practice time and to complete Physiotherapy research project of clinical science and application.
-                                    </li>
-                                    <li>
-                                        Followed by compulsory six months of regular rotatory internship training.
-                                    </li>
-                                </ol>      
+                                <p>
+                                    The Bachelor degree in Physiotherapy (B.P.T) is a four years full time academic programme with non-semester pattern of examination.
+                                </p>    
+                                <p>
+                                    After passing the 4th year of education, the student undergoes Clinical Internship for a period of 6 months in various departments.
+                                </p>
+                                <p>
+                                    The student should score a minimum of 50% marks in the examinations held, after which he/she is eligible to apply for the convocation.
+                                </p>
                             </div>
                         </div>
                         <div>
@@ -93,13 +96,23 @@ function admission() {
                     </h1>
                     <ul>
                         <li>
-                            Male and Female candidates are eligible to apply.
+                        A pass in the higher secondary examination (HSC) with the following subjects: Physics, Chemistry, Biology/Botany and Zoology.
                         </li>
                         <li>
-                            A pass in the HSC examination with the following subjects: Physics, Chemistry, Biology/Botany and Zoology.
+                        Candidates studied abroad and passed an equivalent examination with the subjects: Physics, Chemistry, Biology (Botany/Zoology) and English.
                         </li>
                         <li>
-                            Age limit for admission: Should have completed 17 years as of 31 December of the admission year.
+                        A pass in the senior secondary school examination of National open school with a minimum of 5 subjects with any of the following subjects:<br/>
+
+                            1) English, Physics, Chemistry, Botany, Zoology.<br/>
+
+                            2) English, Physics, Chemistry, Biology and any other language.
+                        </li>
+                    </ul>
+                    <b>AGE LIMIT FOR ADMISSION</b>
+                    <ul>
+                        <li>
+                        A candidate should have completed the age of 17 years at the time of admission or would complete the age on or before 31st December on the year of admission.
                         </li>
                     </ul>
                 </div>
@@ -120,11 +133,15 @@ function admission() {
                         <div>
                             <div class="uk-card uk-card-body">
                                 <p>
-                                    The following original certificates must be produced before the admission
+                                    The following original certificates must be produced during admission:
                                 </p>
                                 <ol className='uk-list custom_admiss_order'>
+                                   
                                     <li>
                                         Conduct certificate.
+                                    </li>
+                                    <li>
+                                        Aadhaar card copy.
                                     </li>
                                     <li>
                                         Community certificate.
@@ -132,6 +149,7 @@ function admission() {
                                     <li>
                                         SSLC Certificate & Mark Statement.
                                     </li>
+                                    
                                     <li>
                                         Passport & stamp size photograph & copies.
                                     </li>
@@ -139,10 +157,10 @@ function admission() {
                                         Migration Certificate from the concerned university.
                                     </li>
                                     <li>
-                                        Transfer certificate from the institution last studied HSC(Plus two) marks statement or equivalent.
+                                        Transfer certificate from the Institution last studied HSC (+2) marks statement or equivalent.
                                     </li>                                    
                                     <li>
-                                        Eligibility certificate from the Tamil Nadu Dr. M.G.R. Medical University for the candidates who have passed other than plus two(HSC) examination of Tamil Nadu.
+                                        Eligibility certificate from the Tamil Nadu Dr. M.G.R. Medical University for candidates who have passed other than +2 (HSC) examination of Tamil Nadu.
                                     </li>
                                 </ol>      
                             </div>

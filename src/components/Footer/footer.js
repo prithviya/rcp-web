@@ -13,7 +13,7 @@ function footer() {
                     </h4>
                     <span className="line-1 uk-margin-small"></span>
                     <p className='text-white'>
-                        Rathinam, as a premium Institution is known for its unique quality of Education. Rathinam Group is the only institute that brings education, information technology (IT) development, and infrastructure development under one roof.
+                        Rathinam, as a premium Institution is known for its unique quality of Education. Rathinam Group is the only institute that brings education, information technology (IT) , and infrastructure development under one roof.
                     </p>
                 </div>
                 <div>

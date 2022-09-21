@@ -15,7 +15,7 @@ function team() {
                 <div data-uk-slider="finite: false; autoplay: true">
                     <div className="uk-position-relative">
                         <div className="uk-slider-container">
-                            <ul className="uk-slider-items uk-child-width-1-2@s uk-child-width-1-4@m uk-margin-top uk-grid-medium">
+                            <ul className="uk-slider-items uk-flex-middle uk-child-width-1-2@s uk-child-width-1-4@m uk-margin-top uk-grid-medium">
                                 <li>
                                     <div>
                                         <div className="a-box">
@@ -27,11 +27,14 @@ function team() {
                                                 </div>
                                             </div>
                                             <div className="text-container">
-                                                <h5>
-                                                    Karthikeyan. S
+                                                <h5 className='uk-text-bold'>
+                                                    Prof. Karthikeyan. S
                                                 </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    M.P.T (ORTHO)., MIAP., MMTFI., CSTMT., CDNP., (CMP)., PG.Dip.Fitness., Diabetes Educator.,
+                                                </p>
                                                 <div>
-                                                    <p className='text-black'>
+                                                    <p className='text-black uk-text-bold uk-text-bold'>
                                                         Principal
                                                     </p>  
                                                 </div>    
@@ -50,11 +53,14 @@ function team() {
                                                 </div>
                                             </div>
                                             <div className="text-container">
-                                                <h5>
-                                                    Roshini. R
+                                                <h5 className='uk-text-bold'>
+                                                    Prof.Roshini. R
                                                 </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    M.P.T (OBG).,MIAP.,Diabetes Educator., 
+                                                </p>
                                                 <div>
-                                                    <p className='text-black'>
+                                                    <p className='text-black uk-text-bold'>
                                                        Vice Principal
                                                     </p>  
                                                 </div>    
@@ -73,11 +79,14 @@ function team() {
                                                 </div>
                                             </div>
                                             <div className="text-container">
-                                                <h5>
-                                                    Kumaresan. M
+                                                <h5 className='uk-text-bold'>
+                                                    Mr.Kumaresan. M
                                                 </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    M.P.T (Neuro).,
+                                                </p>
                                                 <div>
-                                                    <p className='text-black'>
+                                                    <p className='text-black uk-text-bold'>
                                                         Assistant Professor
                                                     </p>  
                                                 </div>    
@@ -96,11 +105,14 @@ function team() {
                                                 </div>
                                             </div>
                                             <div className="text-container">
-                                                <h5>
-                                                    Cynthia Benedict. J
+                                                <h5 className='uk-text-bold'>
+                                                   Ms.Cynthia Benedict. J
                                                 </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    M.P.T (Neuro).,
+                                                </p>
                                                 <div>
-                                                    <p className='text-black'>
+                                                    <p className='text-black uk-text-bold'>
                                                         Assistant Professor
                                                     </p>  
                                                 </div>    
@@ -119,11 +131,14 @@ function team() {
                                                 </div>
                                             </div>
                                             <div className="text-container">
-                                                <h5>
-                                                Malathi
+                                                <h5 className='uk-text-bold'>
+                                                Ms.Malathi. P
                                                 </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    B.P.T, MIAP, PGDSM, M.A (Yoga).,
+                                                </p>
                                                 <div>
-                                                    <p className='text-black'>
+                                                    <p className='text-black uk-text-bold'>
                                                         Assistant Professor
                                                     </p>  
                                                 </div>    
@@ -142,11 +157,14 @@ function team() {
                                                 </div>
                                             </div>
                                             <div className="text-container">
-                                                <h5>
-                                                Vanjimuthu Kumar.
+                                                <h5 className='uk-text-bold'>
+                                                   Mr.Vanjimuthu Kumar. K
                                                 </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    MSW.,
+                                                </p>
                                                 <div>
-                                                    <p className='text-black'>
+                                                    <p className='text-black uk-text-bold'>
                                                         Assistant Professor
                                                     </p>  
                                                 </div>    
@@ -165,11 +183,14 @@ function team() {
                                                 </div>
                                             </div>
                                             <div className="text-container">
-                                                <h5>
-                                                Bhuvaneswari
+                                                <h5 className='uk-text-bold'>
+                                                Dr.Bhuvaneswari. N
                                                 </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    MSc (Physics)., PhD.,
+                                                </p>
                                                 <div>
-                                                    <p className='text-black'>
+                                                    <p className='text-black uk-text-bold'>
                                                         Assistant Professor
                                                     </p>  
                                                 </div>    
@@ -188,11 +209,14 @@ function team() {
                                                 </div>
                                             </div>
                                             <div className="text-container">
-                                                <h5>
-                                                Anandha Kumar
+                                                <h5 className='uk-text-bold'>
+                                                    Mr.Anandha Kumar.B
                                                 </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    MCA.,M.Phil.,(Ph.D).,
+                                                </p>
                                                 <div>
-                                                    <p className='text-black'>
+                                                    <p className='text-black uk-text-bold'>
                                                         Assistant Professor
                                                     </p>  
                                                 </div>    
@@ -211,11 +235,14 @@ function team() {
                                                 </div>
                                             </div>
                                             <div className="text-container">
-                                                <h5>
-                                                    Revathi. S
+                                                <h5 className='uk-text-bold'>
+                                                    Ms.Revathi. S
                                                 </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    MSc (Medical Anatomy)
+                                                </p>
                                                 <div>
-                                                    <p className='text-black'>
+                                                    <p className='text-black uk-text-bold'>
                                                         Assistant Professor
                                                     </p>  
                                                 </div>    
@@ -234,11 +261,16 @@ function team() {
                                                 </div>
                                             </div>
                                             <div className="text-container">
-                                                <h5>
-                                                    Kaviya
+                                                <h5 className='uk-text-bold'>
+                                                    Ms.Kaviya. P
                                                 </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    MSc (Medical Anatomy)
+                                                </p>
+                                                </p>
                                                 <div>
-                                                    <p className='text-black'>
+                                                    <p className='text-black uk-text-bold'>
                                                         Assistant Professor
                                                     </p>  
                                                 </div>    

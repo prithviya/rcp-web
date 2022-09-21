@@ -1,18 +1,21 @@
 export default
 {
-    BRAND_LOGO: require('../Assets/logo.png'),
+    BRAND_LOGO: require('../Assets/logo.webp'),
     // slider
     SLIDER_IMG: require('../Assets/slider/slider-1.webp'),
-    SLIDER_IMG_1: require('../Assets/slider/slider-2.png'),
-    SLIDER_IMG_2: require('../Assets/slider/slider-3.png'),
+    SLIDER_IMG_1: require('../Assets/slider/slider-2.webp'),
+    SLIDER_IMG_2: require('../Assets/slider/slider-3.webp'),
     // VISION
     VISION_ICON : require('../Assets/1.webp'), 
     MISSION_ICON : require('../Assets/2.webp'),
     MOTTO_ICON : require('../Assets/3.webp'),
+    // Academics
+    CHAIRMAN: require('../Assets/academic/chairman.webp'),
+    PRINCIPAL: require('../Assets/academic/principal.webp'),
 
     // gallery
     TEAM_ITEM_1: require('../Assets/team/img-1.webp'),
-    TEAM_ITEM_2: require('../Assets/team/img-2.webp'),
+    TEAM_ITEM_2: require('../Assets/team/img-2.jpeg'),
     TEAM_ITEM_3: require('../Assets/team/img-3.webp'),
     TEAM_ITEM_4: require('../Assets/team/img-4.webp'),
     TEAM_ITEM_5: require('../Assets/team/img-5.webp'),
@@ -28,20 +31,20 @@ export default
     GALLERY_ITEM_8: require('../Assets/gallery/gallery_img (8).webp'),
     
     // fisrt celebration visit
-    CEL_VISIT: require('../Assets/Celebrate_Visit/cel_visit (1).jpeg'),
-    CEL_VISIT_1: require('../Assets/Celebrate_Visit/cel_visit (2).jpeg'),
-    CEL_VISIT_2: require('../Assets/Celebrate_Visit/cel_visit (3).jpeg'),
-    CEL_VISIT_3: require('../Assets/Celebrate_Visit/cel_visit (4).jpeg'),
+    CEL_VISIT: require('../Assets/Celebrate_Visit/cel_visit (1).webp'),
+    CEL_VISIT_1: require('../Assets/Celebrate_Visit/cel_visit (2).webp'),
+    CEL_VISIT_2: require('../Assets/Celebrate_Visit/cel_visit (3).webp'),
+    CEL_VISIT_3: require('../Assets/Celebrate_Visit/cel_visit (4).webp'),
 
     // fst clinical visit
-    CLI_VISIT_1: require('../Assets/Clinical_Visit/Cli_Visit (1).jpg'),
-    CLI_VISIT_2: require('../Assets/Clinical_Visit/Cli_Visit (2).jpg'),
-    CLI_VISIT_3: require('../Assets/Clinical_Visit/Cli_Visit (3).jpg'),
-    CLI_VISIT_4: require('../Assets/Clinical_Visit/Cli_Visit (4).jpg'),
-    CLI_VISIT_5: require('../Assets/Clinical_Visit/Cli_Visit (5).jpg'),
-    CLI_VISIT_6: require('../Assets/Clinical_Visit/Cli_Visit (6).jpg'),
-    CLI_VISIT_7: require('../Assets/Clinical_Visit/Cli_Visit (7).jpg'),
+    CLI_VISIT_1: require('../Assets/Clinical_Visit/Cli_Visit (1).webp'),
+    CLI_VISIT_2: require('../Assets/Clinical_Visit/Cli_Visit (2).webp'),
+    CLI_VISIT_3: require('../Assets/Clinical_Visit/Cli_Visit (3).webp'),
+    CLI_VISIT_4: require('../Assets/Clinical_Visit/Cli_Visit (4).webp'),
+    CLI_VISIT_5: require('../Assets/Clinical_Visit/Cli_Visit (5).webp'),
+    CLI_VISIT_6: require('../Assets/Clinical_Visit/Cli_Visit (6).webp'),
+    CLI_VISIT_7: require('../Assets/Clinical_Visit/Cli_Visit (7).webp'),
 
     // about institute
-    ABT_INS: require('../Assets/abt_institute.jpg'),
+    ABT_INS: require('../Assets/abt_institute.webp'),
 };

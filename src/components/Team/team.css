@@ -45,7 +45,7 @@
   
   .text-container h5 {
     margin: 20px 0px 10px 0px;
-    background: linear-gradient(135deg, #3bb18e 52%, #007ccf 92%);
+    background: linear-gradient(45deg, #007ccf 62%, #3bb18e 92%);
     -webkit-background-clip: text;
 	  -webkit-text-fill-color: transparent;
   }

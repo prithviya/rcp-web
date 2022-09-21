@@ -18,7 +18,7 @@ function vision() {
                     <ul className="uk-switcher uk-margin">
                         <li>
                             <div>
-                                <h5 className='uk-text-center uk-margin-remove uk-text-bold'>
+                                <h5 className='uk-text-center uk-margin-remove uk-text-bold custom_sub_title'>
                                     Our Vision
                                 </h5>
                                 <img className='uk-text-center uk-align-center' src={Images.MISSION_ICON} alt='vision_icon'/>
@@ -29,7 +29,7 @@ function vision() {
                         </li>
                         <li>
                             <div>
-                                <h5 className='uk-text-center uk-margin-remove uk-text-bold'>
+                                <h5 className='uk-text-center uk-margin-remove uk-text-bold custom_sub_title'>
                                     Our Mission
                                 </h5>
                                 <img className='uk-text-center uk-align-center' src={Images.MOTTO_ICON} alt='vision_icon'/>
@@ -40,7 +40,7 @@ function vision() {
                         </li>
                         <li>
                             <div>
-                                <h5 className='uk-text-center uk-margin-remove uk-text-bold'>
+                                <h5 className='uk-text-center uk-margin-remove uk-text-bold custom_sub_title'>
                                     Motto
                                 </h5>
                                 <img className='uk-text-center uk-align-center' src={Images.VISION_ICON} alt='vision_icon'/>

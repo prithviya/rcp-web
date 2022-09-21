@@ -1,6 +1,6 @@
 .custom_banner_section
 {
-    background-image: url('../../Assets/banner.jpeg') !important;
+    background-image: url('../../Assets/banner.webp') !important;
     background-size: cover;
     background-attachment: fixed;
 }

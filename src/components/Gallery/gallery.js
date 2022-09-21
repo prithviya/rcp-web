@@ -20,11 +20,11 @@ import GALLERY_ITEM_17 from '../../Assets/gallery/gallery_img (17).webp';
 import GALLERY_ITEM_18 from '../../Assets/gallery/gallery_img (18).webp';
 import GALLERY_ITEM_19 from '../../Assets/gallery/gallery_img (19).webp';
 import GALLERY_ITEM_20 from '../../Assets/gallery/gallery_img (20).webp';
-import GALLERY_ITEM_21 from '../../Assets/Clinical_Visit/Cli_Visit (1).jpg';
-import GALLERY_ITEM_22 from '../../Assets/Clinical_Visit/Cli_Visit (4).jpg';
-import GALLERY_ITEM_23 from '../../Assets/Clinical_Visit/Cli_Visit (6).jpg';
-import GALLERY_ITEM_24 from '../../Assets/Clinical_Visit/Cli_Visit (2).jpg';
-import GALLERY_ITEM_25 from '../../Assets/Clinical_Visit/Cli_Visit (3).jpg';
+import GALLERY_ITEM_21 from '../../Assets/Clinical_Visit/Cli_Visit (1).webp';
+import GALLERY_ITEM_22 from '../../Assets/Clinical_Visit/Cli_Visit (4).webp';
+import GALLERY_ITEM_23 from '../../Assets/Clinical_Visit/Cli_Visit (6).webp';
+import GALLERY_ITEM_24 from '../../Assets/Clinical_Visit/Cli_Visit (2).webp';
+import GALLERY_ITEM_25 from '../../Assets/Clinical_Visit/Cli_Visit (3).webp';
 
 import Gallery from "react-grid-gallery";
 

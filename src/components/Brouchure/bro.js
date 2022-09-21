@@ -14,8 +14,8 @@ function bro() {
                     <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" data-uk-grid>
                         <div>
                             <div class="uk-card-body">
-                                <p className='text-black'>
-                                    Curriculum of Physiotherapy Programmes has been designed in such a way to understand the basic concepts in the field and to apply the knowledge during the Clinical training in the real health care setup. The Physiotherapy Professionals are expected to have excellent skills required in their respective field of study.
+                                <p className='text-black uk-text-justify'>
+                                   Physiotherapy Students are exposed to various multi speciality hospitals during the 4 years of their study for orientation and clinical skills acquisition. Also, during the 6 months Internship program, they are exclusively posted in several departments of numerous hospitals to enhance their clinical knowledge. These skills learnt during clinical training will be of great benefit to them in a real healthcare set up.
                                 </p>
                             </div>
                         </div>
