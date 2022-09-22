@@ -144,11 +144,11 @@ function event() {
                               <iframe width="100%" height='265' src="https://www.youtube.com/embed/Fa_sShGGsUk" title="YouTube video player" frameborder="0" data-uk-video="autoplay: inview; automute: false" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </div>
                         </div>
-                        <div>
+                        {/* <div>
                           <div class="uk-card">
                             <img alt='Gallery_image' src={Images.GALLERY_ITEM_8} />
                           </div>
-                        </div>
+                        </div> */}
                         <div>
                           <div class="uk-card">
                             <img alt='Gallery_image' src={ Images.GALLERY_ITEM_20 }/>
