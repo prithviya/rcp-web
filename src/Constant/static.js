@@ -25,10 +25,30 @@ export default
     TEAM_ITEM_9: require('../Assets/team/img-9.webp'),
     TEAM_ITEM_10: require('../Assets/team/img-10.webp'),
     TEAM_ITEM_11: require('../Assets/team/img-11.webp'),
+    // gallery
+    GALLERY_ITEM_1: require('../Assets/gallery/gallery_img (1).webp'),
+    GALLERY_ITEM_2: require('../Assets/gallery/gallery_img (2).webp'),
+    GALLERY_ITEM_3: require('../Assets/gallery/gallery_img (3).webp'),
     GALLERY_ITEM_5: require('../Assets/gallery/gallery_img (5).webp'),
     GALLERY_ITEM_6: require('../Assets/gallery/gallery_img (6).webp'),
     GALLERY_ITEM_7: require('../Assets/gallery/gallery_img (7).webp'),
     GALLERY_ITEM_8: require('../Assets/gallery/gallery_img (8).webp'),
+    GALLERY_ITEM_9: require('../Assets/gallery/gallery_img (9).webp'),
+    GALLERY_ITEM_10: require('../Assets/gallery/gallery_img (10).webp'),
+    GALLERY_ITEM_11: require('../Assets/gallery/gallery_img (11).webp'),
+    GALLERY_ITEM_12: require('../Assets/gallery/gallery_img (12).webp'),
+
+    // world PT
+    GALLERY_ITEM_4: require('../Assets/gallery/gallery_img (4).webp'),
+    GALLERY_ITEM_13: require('../Assets/gallery/gallery_img (13).webp'),
+    GALLERY_ITEM_14: require('../Assets/gallery/gallery_img (14).webp'),
+    GALLERY_ITEM_15: require('../Assets/gallery/gallery_img (15).webp'),
+    GALLERY_ITEM_16: require('../Assets/gallery/gallery_img (16).webp'),
+    GALLERY_ITEM_17: require('../Assets/gallery/gallery_img (17).webp'),
+    GALLERY_ITEM_18: require('../Assets/gallery/gallery_img (18).webp'),
+    GALLERY_ITEM_19: require('../Assets/gallery/gallery_img (19).webp'),
+    GALLERY_ITEM_20: require('../Assets/gallery/gallery_img (20).webp'),
+    
     
     // fisrt celebration visit
     CEL_VISIT: require('../Assets/Celebrate_Visit/cel_visit (1).webp'),

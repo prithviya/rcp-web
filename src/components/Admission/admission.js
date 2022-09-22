@@ -68,13 +68,13 @@ function admission() {
                     <div class="uk-child-width-1-2@m uk-flex-middle uk-grid-small uk-grid-match" data-uk-grid>
                         <div>
                             <div class="uk-card uk-card-body">
-                                <p>
+                                <p className='text-black'>
                                     The Bachelor degree in Physiotherapy (B.P.T) is a four years full time academic programme with non-semester pattern of examination.
                                 </p>    
-                                <p>
+                                <p className='text-black'>
                                     After passing the 4th year of education, the student undergoes Clinical Internship for a period of 6 months in various departments.
                                 </p>
-                                <p>
+                                <p className='text-black'>
                                     The student should score a minimum of 50% marks in the examinations held, after which he/she is eligible to apply for the convocation.
                                 </p>
                             </div>
@@ -95,13 +95,13 @@ function admission() {
                         Eligibility <span>Criteria</span>
                     </h1>
                     <ul>
-                        <li>
+                        <li className='text-black'>
                         A pass in the higher secondary examination (HSC) with the following subjects: Physics, Chemistry, Biology/Botany and Zoology.
                         </li>
-                        <li>
+                        <li className='text-black'>
                         Candidates studied abroad and passed an equivalent examination with the subjects: Physics, Chemistry, Biology (Botany/Zoology) and English.
                         </li>
-                        <li>
+                        <li className='text-black'>
                         A pass in the senior secondary school examination of National open school with a minimum of 5 subjects with any of the following subjects:<br/>
 
                             1) English, Physics, Chemistry, Botany, Zoology.<br/>
@@ -109,9 +109,9 @@ function admission() {
                             2) English, Physics, Chemistry, Biology and any other language.
                         </li>
                     </ul>
-                    <b>AGE LIMIT FOR ADMISSION</b>
+                    <b className='text-black uk-matgin-small'>AGE LIMIT FOR ADMISSION</b>
                     <ul>
-                        <li>
+                        <li className='text-black'>
                         A candidate should have completed the age of 17 years at the time of admission or would complete the age on or before 31st December on the year of admission.
                         </li>
                     </ul>
