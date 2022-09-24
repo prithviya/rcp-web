@@ -15,7 +15,7 @@ export default
 
     // gallery
     TEAM_ITEM_1: require('../Assets/team/img-1.webp'),
-    TEAM_ITEM_2: require('../Assets/team/img-2.jpeg'),
+    TEAM_ITEM_2: require('../Assets/team/img-2.png'),
     TEAM_ITEM_3: require('../Assets/team/img-3.webp'),
     TEAM_ITEM_4: require('../Assets/team/img-4.webp'),
     TEAM_ITEM_5: require('../Assets/team/img-5.webp'),
