@@ -69,7 +69,7 @@ function academic() {
                                 </span>
                             </h1>
                             <div class="uk-panel">
-                                <img class="uk-align-left uk-margin-remove-adjacent"  src={Images.CHAIRMAN} width="225" height="150" alt="Example image"/>
+                                <img class="uk-align-left uk-margin-remove-adjacent"  src={Images.CHAIRMAN} width="350" height="300" alt="Example_academic"/>
                                 <p className='uk-text-justify'>
                                     When you walk through the portals of Rathinam, you are entering into a world that leads to your future. We believe that acquiring a degree is only a part of the learning process. The bigger quest is to prepare the students mentally to lead their lives better. 
                                 </p>
@@ -91,7 +91,7 @@ function academic() {
                                 </span>
                             </h1>
                             <div class="uk-panel">
-                                <img class="uk-align-left uk-margin-remove-adjacent"  src={Images.PRINCIPAL} width="350" height="200" alt="Example image"/>
+                                <img class="uk-align-left uk-margin-remove-adjacent"  src={Images.PRINCIPAL} width="350" height="200" alt="Example_academic"/>
                                     <p className='uk-text-justify'>
                                             Welcome to Rathinam College of Physiotherapy (RCP), an institution that rests on a strong academic foundation, merged with modern approaches that mould youth into successful professionals. RCP is well known for its commitment towards excellence in every aspect. It is a blend of competent academicians, state of the art infrastructure, experienced and efficient management, safe and convenient environment to provide perfect balance in academics, sports and social opportunities for the students.
                                 </p>

@@ -10,7 +10,7 @@ export default
     MISSION_ICON : require('../Assets/2.webp'),
     MOTTO_ICON : require('../Assets/3.webp'),
     // Academics
-    CHAIRMAN: require('../Assets/academic/chairman.webp'),
+    CHAIRMAN: require('../Assets/academic/Chairman.JPG'),
     PRINCIPAL: require('../Assets/academic/principal.webp'),
 
     // gallery
