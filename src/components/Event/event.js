@@ -17,6 +17,11 @@ function event() {
               <li><a href="/#">Teacher's Day</a></li>
               <li><a href="/#">Aungraha</a></li>
               <li><a href="/#">World PT Day</a></li>
+              <li><a href="/#">Parent's Meeting</a></li>
+              <li><a href="/#">Clincials</a></li>
+              <li><a href="/#">Physioarise 2022</a></li>
+              <li><a href="/#">Pooja Celebration</a></li>
+              <li><a href="/#">General</a></li>
           </ul>
 
           <ul class="uk-switcher uk-margin">
@@ -168,6 +173,232 @@ function event() {
                     </div>
                   </div>
                 </div>
+              </li>
+              <li>
+                <div>
+                  <h2 className='text-center uk-margin'>
+                    Parent's Meeting
+                  </h2>
+                  <div class="uk-child-width-1-3@m uk-grid-small uk-flex-middle uk-grid-match" data-uk-grid>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_21 }/>
+                      </div>
+                    </div>   
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_24 }/>
+                      </div>
+                    </div>                              
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_23 }/>
+                      </div>
+                    </div>                     
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_26 }/>
+                      </div>
+                    </div>  
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_27 }/>
+                      </div>
+                    </div>  
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_28 }/>
+                      </div>
+                    </div> 
+                    
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_22 }/>
+                      </div>
+                    </div> 
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_25 }/>
+                      </div>
+                    </div>
+                  </div>
+                </div>                  
+              </li>
+              <li>
+                <div>
+                  <h2 className='text-center uk-margin'>
+                    Clincials
+                  </h2>
+                  <div class="uk-child-width-1-3@m uk-grid-small uk-flex-middle uk-grid-match" data-uk-grid>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_29 }/>
+                      </div>
+                    </div>   
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_30 }/>
+                      </div>
+                    </div>                              
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_31 }/>
+                      </div>
+                    </div>                     
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_32 }/>
+                      </div>
+                    </div>  
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_33 }/>
+                      </div>
+                    </div>  
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_34 }/>
+                      </div>
+                    </div>                     
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_35 }/>
+                      </div>
+                    </div>   
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_37 }/>
+                      </div>
+                    </div>                     
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_38 }/>
+                      </div>
+                    </div> 
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_39 }/>
+                      </div>
+                    </div>
+                  </div>
+                </div>                  
+              </li>
+              <li>
+                <div>
+                  <h2 className='text-center uk-margin'>
+                    Physioarise Inter College Meet
+                  </h2>
+                  <div class="uk-child-width-1-3@m uk-grid-small uk-flex-middle uk-grid-match" data-uk-grid>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_39 }/>
+                      </div>
+                    </div>   
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_40 }/>
+                      </div>
+                    </div>                              
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_41 }/>
+                      </div>
+                    </div>                     
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_42 }/>
+                      </div>
+                    </div>  
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_43 }/>
+                      </div>
+                    </div>  
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_44 }/>
+                      </div>
+                    </div>                     
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_45 }/>
+                      </div>
+                    </div>   
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_46 }/>
+                      </div>
+                    </div> 
+                  </div>
+                </div>                  
+              </li>
+              <li>
+                <div>
+                  <h2 className='text-center uk-margin'>
+                    Pooja Celebration
+                  </h2>
+                  <div class="uk-child-width-1-3@m uk-grid-small uk-flex-middle uk-grid-match" data-uk-grid> 
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_48 }/>
+                      </div>
+                    </div>                              
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_49 }/>
+                      </div>
+                    </div>                     
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_50 }/>
+                      </div>
+                    </div>  
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_51 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_47 }/>
+                      </div>
+                    </div>                        
+                  </div>
+                </div>                  
+              </li>
+              <li>
+                <div>
+                  <h2 className='text-center uk-margin'>
+                    Staff Presentation & Articles
+                  </h2>
+                  <div class="uk-child-width-1-3@m uk-grid-small uk-flex-middle uk-grid-match" data-uk-grid> 
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_52 }/>
+                      </div>
+                    </div>                              
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_53 }/>
+                      </div>
+                    </div>                     
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_54 }/>
+                      </div>
+                    </div>  
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_55 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_56 }/>
+                      </div>
+                    </div>                        
+                  </div>
+                </div>                  
               </li>
           </ul>
         </div>
