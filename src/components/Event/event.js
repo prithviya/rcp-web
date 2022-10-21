@@ -15,11 +15,11 @@ function event() {
         <div className='uk-container'>
           <ul class="uk-subnav uk-subnav-pill" data-uk-switcher="animation: uk-animation-fade">
               <li><a href="/#">Teacher's Day</a></li>
-              <li><a href="/#">Aungraha</a></li>
+              <li><a href="/#">Anugraha</a></li>
               <li><a href="/#">World PT Day</a></li>
               <li><a href="/#">Parent's Meeting</a></li>
-              <li><a href="/#">Clincials</a></li>
-              <li><a href="/#">Physioarise 2022</a></li>
+              <li><a href="/#">Clinicals</a></li>
+              <li><a href="/#">Physio Arise 2022</a></li>
               <li><a href="/#">Pooja Celebration</a></li>
               <li><a href="/#">General</a></li>
           </ul>
@@ -87,7 +87,7 @@ function event() {
               <li>
                 <div>
                   <h2 className='text-center uk-margin'>
-                    Aungraha - Freshmen Induction
+                    Anugraha - Freshmen Induction
                   </h2>
                   <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" data-uk-grid>
                     <div>
@@ -227,7 +227,7 @@ function event() {
               <li>
                 <div>
                   <h2 className='text-center uk-margin'>
-                    Clincials
+                    Clinicals
                   </h2>
                   <div class="uk-child-width-1-3@m uk-grid-small uk-flex-middle uk-grid-match" data-uk-grid>
                     <div>
@@ -275,18 +275,18 @@ function event() {
                         <img alt='Gallery_image' src={ Images.GALLERY_ITEM_38 }/>
                       </div>
                     </div> 
-                    <div>
+                    {/* <div>
                       <div class="uk-card">
                         <img alt='Gallery_image' src={ Images.GALLERY_ITEM_39 }/>
                       </div>
-                    </div>
+                    </div> */}
                   </div>
                 </div>                  
               </li>
               <li>
                 <div>
                   <h2 className='text-center uk-margin'>
-                    Physioarise Inter College Meet
+                    Physio Arise Inter College Meet
                   </h2>
                   <div class="uk-child-width-1-3@m uk-grid-small uk-flex-middle uk-grid-match" data-uk-grid>
                     <div>
