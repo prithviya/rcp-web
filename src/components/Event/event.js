@@ -275,11 +275,6 @@ function event() {
                         <img alt='Gallery_image' src={ Images.GALLERY_ITEM_38 }/>
                       </div>
                     </div> 
-                    {/* <div>
-                      <div class="uk-card">
-                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_39 }/>
-                      </div>
-                    </div> */}
                   </div>
                 </div>                  
               </li>

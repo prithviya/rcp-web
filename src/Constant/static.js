@@ -16,8 +16,8 @@ export default
     // gallery
     TEAM_ITEM_1: require('../Assets/team/img-1.webp'),
     TEAM_ITEM_2: require('../Assets/team/img-2.png'),
-    TEAM_ITEM_3: require('../Assets/team/img-3.webp'),
-    TEAM_ITEM_4: require('../Assets/team/img-4.webp'),
+    // TEAM_ITEM_3: require('../Assets/team/img-3.webp'),
+    // TEAM_ITEM_4: require('../Assets/team/img-4.webp'),
     TEAM_ITEM_5: require('../Assets/team/img-5.webp'),
     TEAM_ITEM_6: require('../Assets/team/img-6.webp'),
     TEAM_ITEM_7: require('../Assets/team/img-7.webp'),
@@ -25,6 +25,7 @@ export default
     TEAM_ITEM_9: require('../Assets/team/img-9.webp'),
     TEAM_ITEM_10: require('../Assets/team/img-10.webp'),
     TEAM_ITEM_11: require('../Assets/team/img-11.webp'),
+    TEAM_ITEM_12: require('../Assets/team/img-3.jpg'),
     // gallery
     GALLERY_ITEM_1: require('../Assets/gallery/gallery_img (1).webp'),
     GALLERY_ITEM_2: require('../Assets/gallery/gallery_img (2).webp'),

@@ -100,6 +100,32 @@ function team() {
                                             <div className="img-container">
                                                 <div className="img-inner">
                                                     <div className="inner-skew">
+                                                        <img src={Images.TEAM_ITEM_12} alt="team_image"/>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="text-container">
+                                                <h5 className='uk-text-bold'>
+                                                    Sundareswaran. R
+                                                </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                B.P.T.,
+                                                </p>
+                                                <div>
+                                                    <p className='text-black uk-text-bold uk-text-bold'>
+                                                    Clinical Instructor
+                                                    </p>  
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div>
+                                        <div className="a-box">
+                                            <div className="img-container">
+                                                <div className="img-inner">
+                                                    <div className="inner-skew">
                                                         <img alt="team_image" src={Images.TEAM_ITEM_7}/>
                                                     </div>
                                                 </div>
