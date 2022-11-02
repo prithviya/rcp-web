@@ -106,7 +106,7 @@ function team() {
                                             </div>
                                             <div className="text-container">
                                                 <h5 className='uk-text-bold'>
-                                                    Sundareswaran. R
+                                                    Mr.Sundareswaran. R
                                                 </h5>
                                                 <p className='' style={{fontSize:'0.75rem'}}>
                                                 B.P.T.,
@@ -236,11 +236,11 @@ function team() {
                                             </div>
                                             <div className="text-container">
                                                 <h5 className='uk-text-bold'>
-                                                    Ms.Kaviya. P
+                                                    Asst.Prof Ms.Kaviya. P
                                                 </h5>
                                                 <p className='' style={{fontSize:'0.75rem'}}>
                                                 <p className='' style={{fontSize:'0.75rem'}}>
-                                                    MSc (Medical Anatomy)
+                                                    MSc (Applied Psychology)
                                                 </p>
                                                 </p>
                                                 <div>
