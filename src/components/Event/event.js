@@ -127,7 +127,7 @@ function event() {
                     </div>               
                     <div>
                       <div className='uk-card'>
-                        <iframe width="100%" height="265" src="https://www.youtube.com/embed/xheMmcslEvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="100%" height="265" src="https://www.youtube.com/embed/sXRVDYFbswM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                       </div>
                     </div>
                     <div>
