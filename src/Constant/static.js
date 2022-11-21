@@ -1,4 +1,4 @@
-export default
+const data = [
 {
     BRAND_LOGO: require('../Assets/logo.webp'),
     // slider
@@ -71,31 +71,29 @@ export default
     GALLERY_ITEM_37: require('../Assets/gallery/clinicals/img_02 (9).webp'),
     GALLERY_ITEM_38: require('../Assets/gallery/clinicals/img_02 (10).webp'),
     
-     //intercaollege  meet
-     GALLERY_ITEM_39: require('../Assets/gallery/inter_clgmeet/img_03 (1).webp'),
-     GALLERY_ITEM_40: require('../Assets/gallery/inter_clgmeet/img_03 (2).webp'),
-     GALLERY_ITEM_41: require('../Assets/gallery/inter_clgmeet/img_03 (3).webp'),
-     GALLERY_ITEM_42: require('../Assets/gallery/inter_clgmeet/img_03 (4).webp'),
-     GALLERY_ITEM_43: require('../Assets/gallery/inter_clgmeet/img_03 (5).webp'),
-     GALLERY_ITEM_44: require('../Assets/gallery/inter_clgmeet/img_03 (6).webp'),
-     GALLERY_ITEM_45: require('../Assets/gallery/inter_clgmeet/img_03 (7).webp'),
-     GALLERY_ITEM_46: require('../Assets/gallery/inter_clgmeet/img_03 (9).webp'),
+    //intercaollege  meet
+    GALLERY_ITEM_39: require('../Assets/gallery/inter_clgmeet/img_03 (1).webp'),
+    GALLERY_ITEM_40: require('../Assets/gallery/inter_clgmeet/img_03 (2).webp'),
+    GALLERY_ITEM_41: require('../Assets/gallery/inter_clgmeet/img_03 (3).webp'),
+    GALLERY_ITEM_42: require('../Assets/gallery/inter_clgmeet/img_03 (4).webp'),
+    GALLERY_ITEM_43: require('../Assets/gallery/inter_clgmeet/img_03 (5).webp'),
+    GALLERY_ITEM_44: require('../Assets/gallery/inter_clgmeet/img_03 (6).webp'),
+    GALLERY_ITEM_45: require('../Assets/gallery/inter_clgmeet/img_03 (7).webp'),
+    GALLERY_ITEM_46: require('../Assets/gallery/inter_clgmeet/img_03 (9).webp'),
 
-      //pooja
-      GALLERY_ITEM_47: require('../Assets/gallery/pooja/img_04 (1).webp'),
-      GALLERY_ITEM_48: require('../Assets/gallery/pooja/img_04 (2).webp'),
-      GALLERY_ITEM_49: require('../Assets/gallery/pooja/img_04 (3).webp'),
-      GALLERY_ITEM_50: require('../Assets/gallery/pooja/img_04 (4).webp'),
-      GALLERY_ITEM_51: require('../Assets/gallery/pooja/img_04 (5).webp'),
+    //pooja
+    GALLERY_ITEM_47: require('../Assets/gallery/pooja/img_04 (1).webp'),
+    GALLERY_ITEM_48: require('../Assets/gallery/pooja/img_04 (2).webp'),
+    GALLERY_ITEM_49: require('../Assets/gallery/pooja/img_04 (3).webp'),
+    GALLERY_ITEM_50: require('../Assets/gallery/pooja/img_04 (4).webp'),
+    GALLERY_ITEM_51: require('../Assets/gallery/pooja/img_04 (5).webp'),
        
-      //general
-       GALLERY_ITEM_52: require('../Assets/gallery/presentation/img_05 (5).webp'),
-       GALLERY_ITEM_53: require('../Assets/gallery/presentation/img_05 (3).webp'),
-       GALLERY_ITEM_54: require('../Assets/gallery/presentation/img_05 (1).webp'),
-       GALLERY_ITEM_55: require('../Assets/gallery/presentation/img_05 (4).webp'),
-       GALLERY_ITEM_56: require('../Assets/gallery/presentation/img_05 (2).webp'),
-
-
+    //general
+    GALLERY_ITEM_52: require('../Assets/gallery/presentation/img_05 (5).webp'),
+    GALLERY_ITEM_53: require('../Assets/gallery/presentation/img_05 (3).webp'),
+    GALLERY_ITEM_54: require('../Assets/gallery/presentation/img_05 (1).webp'),
+    GALLERY_ITEM_55: require('../Assets/gallery/presentation/img_05 (4).webp'),
+    GALLERY_ITEM_56: require('../Assets/gallery/presentation/img_05 (2).webp'),
     
     // fisrt celebration visit
     CEL_VISIT: require('../Assets/Celebrate_Visit/cel_visit (1).webp'),
@@ -114,4 +112,22 @@ export default
 
     // about institute
     ABT_INS: require('../Assets/abt_institute.webp'),
-};
+
+    // aungraha2022-2023 batch
+    GALLERY_ITEM_57: require('../Assets/gallery/anugraha-2022/img (1).webp'),
+    GALLERY_ITEM_58: require('../Assets/gallery/anugraha-2022/img (2).webp'),
+    GALLERY_ITEM_59: require('../Assets/gallery/anugraha-2022/img (3).webp'),
+    GALLERY_ITEM_60: require('../Assets/gallery/anugraha-2022/img (4).webp'),
+    GALLERY_ITEM_61: require('../Assets/gallery/anugraha-2022/img (5).webp'),
+    GALLERY_ITEM_62: require('../Assets/gallery/anugraha-2022/img (6).webp'),
+    GALLERY_ITEM_63: require('../Assets/gallery/anugraha-2022/img (7).webp'),
+    GALLERY_ITEM_64: require('../Assets/gallery/anugraha-2022/img (8).webp'),
+    GALLERY_ITEM_65: require('../Assets/gallery/anugraha-2022/img (9).webp'),
+    GALLERY_ITEM_66: require('../Assets/gallery/anugraha-2022/img (10).webp'),
+    GALLERY_ITEM_67: require('../Assets/gallery/anugraha-2022/img (11).webp'),
+    GALLERY_ITEM_68: require('../Assets/gallery/anugraha-2022/img (12).webp'),
+    GALLERY_ITEM_69: require('../Assets/gallery/anugraha-2022/img (13).webp'),
+    GALLERY_ITEM_70: require('../Assets/gallery/anugraha-2022/img (14).webp'),
+}
+]
+export default data;

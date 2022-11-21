@@ -86,8 +86,100 @@ function event() {
               </li>
               <li>
                 <div>
-                  <h2 className='text-center uk-margin'>
-                    Anugraha - Freshmen Induction
+                  <h2 className='text-center uk-padding'>
+                    Anugraha - Freshmen Induction 2022 - 2023
+                  </h2>
+                  <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" data-uk-grid>
+                    <div>
+                      <div className='uk-card'>
+                        <iframe width="100%" height="265" src="https://www.youtube.com/embed/vSXuEJSTdhc" title="YouTube video player" data-uk-video="autoplay: inview; automute: false"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_57 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_58 }/>
+                      </div>
+                    </div>                                
+                    <div>
+                    <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_59 }/>
+                      </div>
+                    </div>                  
+                    <div>
+                    <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_60 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div className='uk-card'>
+                        <iframe width="100%" height="265" src="https://www.youtube.com/embed/BTryOkP2Qhg" title="YouTube video player" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_61 }/>
+                      </div>
+                    </div>               
+                    <div>
+                      <div className='uk-card'>
+                        <iframe width="100%" height="265" src="https://www.youtube.com/embed/xheMmcslEvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_62 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_63 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_64 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_65 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_66 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_67 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_68 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_69 }/>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="uk-card">
+                        <img alt='Gallery_image' src={ Images.GALLERY_ITEM_70 }/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <h2 className='text-center uk-padding'>
+                    Anugraha - Freshmen Induction 2021 - 2022
                   </h2>
                   <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" data-uk-grid>
                     <div>
