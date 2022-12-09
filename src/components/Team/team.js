@@ -67,6 +67,32 @@ function team() {
                                             </div>
                                         </div>
                                     </div>
+                                </li> 
+                                <li>
+                                    <div>
+                                        <div className="a-box">
+                                            <div className="img-container">
+                                                <div className="img-inner">
+                                                    <div className="inner-skew">
+                                                        <img alt="team_image" src={Images.TEAM_ITEM_4}/>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="text-container">
+                                                <h5 className='uk-text-bold'>
+                                                    Mr. Arunkumar K. R
+                                                </h5>
+                                                <p className='' style={{fontSize:'0.75rem'}}>
+                                                    M.P.T (Neuro)., 
+                                                </p>
+                                                <div>
+                                                    <p className='text-black uk-text-bold'>
+                                                        Assistant Professor
+                                                    </p>  
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
                                 </li>                                
                                 <li>
                                     <div>
